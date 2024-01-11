@@ -47,14 +47,26 @@
 <!-- Let's Connect -->
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/ashok-shrestha-a295b3235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter" alt="Twitter">
+  <a href="https://www.facebook.com/ashokshrestha2003" target="_blank" class="badge-link">
+    <div class="badge">
+      <img src="https://img.shields.io/badge/Facebook-Follow-1877f2?style=flat&logo=facebook" alt="Facebook">
+      Facebook
+    </div>
   </a>
-  <a href="https://your-blog.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Read-FF5722?style=flat&logo=rss" alt="Blog">
+  <a href="https://www.instagram.com/_stha07ashok_/" target="_blank" class="badge-link">
+    <div class="badge">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram" alt="Instagram">
+      Instagram
+    </div>
+  </a>
+  <a href="stha07ashok@gmail.com" class="badge-link">
+    <div class="badge">
+      <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail" alt="Gmail">
+      Gmail
+    </div>
   </a>
 </p>
 
