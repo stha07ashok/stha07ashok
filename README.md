@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=2E86AB&size=30&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+there!+%F0%9F%91%8B;I'm+Ashok+Shrestha%2C+a+passionate+learner;And data science enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=2E86AB&size=30&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+there!+%F0%9F%91%8B;I'm+Ashok+Shrestha%2C+a+passionate+learner;And+data+science+enthusiast">
 </p>
 
 <!-- About Me -->
