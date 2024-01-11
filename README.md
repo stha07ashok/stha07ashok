@@ -22,7 +22,7 @@
   <!-- Add more badges as needed -->
 </p>
 
-GitHub Stats
+<h2 align="center">Github Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide=contribs,prs" alt="GitHub Stats">
 </p>
