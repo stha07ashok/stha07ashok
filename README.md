@@ -1,13 +1,21 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=2E86AB&size=30&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Your+Name%2C+a+passionate+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=2E86AB&size=30&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+there!+%F0%9F%91%8B;I'm+Ashok Shrestha%2C+a+passionate+Developer">
 </p>
 
 <!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Web_Development-333333?style=flat&logo=html5" alt="Web Development">
+  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="ReactJS">
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy" alt="NumPy">
+  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas">
+  <img src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=python" alt="Seaborn">
+   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL">
   <!-- Add more badges as needed -->
 </p>
 
