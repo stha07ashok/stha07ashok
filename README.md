@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python" alt="Matplotlib">
   <img src="https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=python" alt="Seaborn">
    <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" alt="C">
+   <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" alt="C++">
+    
   <!-- Add more badges as needed -->
 </p>
 
