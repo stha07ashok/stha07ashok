@@ -56,7 +56,7 @@
   <a href="https://www.instagram.com/_stha07ashok_/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram" alt="Instagram">
   </a>
-  <a href="stha07ashok@gmail.com"target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"target="_blank">
       <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail" alt="Gmail">
   </a>
 </p>
