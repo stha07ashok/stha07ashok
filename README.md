@@ -61,12 +61,12 @@
   </a>
 </p>
 
-<!-- Animated Icons -->
+<!-- Animated Icons 
 <p align="center">
   <img src="https://img.shields.io/badge/-🌐-2E86AB?style=flat&logo=earth" alt="Globe Icon">
   <img src="https://img.shields.io/badge/-✉️-2E86AB?style=flat&logo=gmail" alt="Mail Icon">
-  <!-- Add more animated icons as needed -->
-</p>
+  <!-- Add more animated icons as needed
+</p>-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile+Views" alt="Profile Views">
