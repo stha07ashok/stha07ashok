@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide=contribs,prs" alt="GitHub Stats">
 </p>
 
-<!-- Technologies & Tools -->
+<!-- Technologies & Tools
 <h2 align="center">🔧 Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1" alt="Tech1">
@@ -35,14 +35,14 @@
   <img src="https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3" alt="Tech3">
 </p>
 
-<!-- My Projects -->
+ My Projects
 <h2 align="center">📂 My Projects</h2>
 <p align="center">
   <a href="Link-to-Project1">
     <img src="https://img.shields.io/badge/Project%201-Short%20description-333333?style=flat" alt="Project 1">
-  </a>
+  </a> -->
   <!-- Add more project badges as needed -->
-</p>
+</p> 
 
 <!-- Let's Connect -->
 <h2 align="center">📫 Let's Connect</h2>
