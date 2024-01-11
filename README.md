@@ -50,21 +50,14 @@
   <a href="https://www.linkedin.com/in/ashok-shrestha-a295b3235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.facebook.com/ashokshrestha2003" target="_blank" class="badge-link">
-    <div class="badge">
+  <a href="https://www.facebook.com/ashokshrestha2003" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-Follow-1877f2?style=flat&logo=facebook" alt="Facebook">
-    </div>
   </a>
-  <a href="https://www.instagram.com/_stha07ashok_/" target="_blank" class="badge-link">
-    <div class="badge">
+  <a href="https://www.instagram.com/_stha07ashok_/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram" alt="Instagram">
-    </div>
   </a>
-  <a href="stha07ashok@gmail.com" class="badge-link">
-    <div class="badge">
+  <a href="stha07ashok@gmail.com"target="_blank">
       <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail" alt="Gmail">
-      Gmail
-    </div>
   </a>
 </p>
 
