@@ -1,4 +1,7 @@
-
+<!-- Profile Photo -->
+<p align="center">
+  <img src="https://github.com/stha07ashok/my-photo/raw/main/IMG_5669.jpeg" alt="Ashok Shrestha" width="150" style="border-radius: 50%;" />
+</p>
 
 <!-- Animated Header -->
 <p align="center">
@@ -9,7 +12,12 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  Passionate about web development and AI/ML. Always eager to learn and explore new technologies.
+  👯 I’m looking to collaborate<br/>
+<!--   🌱 I’m currently learning Data Science, Deep Learning<br/> -->
+  💬 My Skills:  Nextjs, Nodejs, Mysql, Sql, React, Typescript, C, C++<br/>
+  📫 How to reach me: <a href="stha07ashok@gmail.com">a.asis.sigdel01@gmail.com</a><br/>
+  🌐 Website: <a href="https://ashokshrestha07.com.np" target="_blank">https://ashishsigdel.com.np</a><br/>
+  ⚡ Fun fact: I love to code.
 </p>
 
 <p align="center">
@@ -24,23 +32,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-<!-- Let's Connect -->
-<h2 align="center">📫 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashok-shrestha-a295b3235/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/ashokshrestha2003" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_stha07ashok_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:ashokshrestha2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <!-- GitHub Stats -->
@@ -59,6 +50,23 @@
   </table>
 </p>
 
+<!-- Let's Connect -->
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashok-shrestha-a295b3235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/ashokshrestha2003" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_stha07ashok_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ashokshrestha2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <!-- Contribution Graph -->
 <h2 align="center">🔥 Contribution Graph</h2>
