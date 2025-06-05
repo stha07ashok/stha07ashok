@@ -15,7 +15,7 @@
   👯 I’m looking to collaborate<br/>
 <!--   🌱 I’m currently learning Data Science, Deep Learning<br/> -->
   💬 My Skills:  Nextjs, Nodejs, Mysql, Sql, React, Typescript, C, C++<br/>
-  📫 How to reach me: <a href="stha07ashok@gmail.com">stha07ashok@gmail.com</a><br/>
+<!--   📫 How to reach me: <a href="stha07ashok@gmail.com">stha07ashok@gmail.com</a><br/> -->
   🌐 Website: <a href="https://ashokshrestha07.com.np" target="_blank">https://ashokshrestha07.com.np</a><br/>
   ⚡ Fun fact: I love to code.
 </p>
