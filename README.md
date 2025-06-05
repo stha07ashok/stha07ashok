@@ -1,7 +1,6 @@
 <!-- Profile Photo -->
 <p align="center">
   <img src="https://github.com/stha07ashok/my-photo/raw/main/IMG_5669.jpeg" alt="Ashok Shrestha" width="150" style="border-radius: 50%;" />
-
 </p>
 
 <!-- Animated Header -->
@@ -34,11 +33,16 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashokshrestha&show_icons=true&theme=radical" alt="Ashok's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokshrestha&theme=radical" alt="Ashok's GitHub streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ashokshrestha&show_icons=true&theme=radical" alt="Ashok's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokshrestha&theme=radical" alt="Ashok's GitHub streak" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <!-- Let's Connect -->
