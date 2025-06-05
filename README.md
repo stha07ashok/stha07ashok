@@ -1,21 +1,14 @@
-
-
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ashok+Shrestha!;A+Passionate+Learner+%F0%9F%92%AA;Data+Science+Enthusiast+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
-
-
-
 
 <!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
   👯 I’m looking to collaborate<br/>
-<!--   🌱 I’m currently learning Data Science, Deep Learning<br/> -->
-  💬 My Skills:  Nextjs, Nodejs, Mysql, Sql, React, Typescript, C, C++<br/>
-<!--   📫 How to reach me: <a href="stha07ashok@gmail.com">stha07ashok@gmail.com</a><br/> -->
+  💬 My Skills: Nextjs, Nodejs, Mysql, Sql, React, Typescript, C, C++<br/>
   🌐 Website: <a href="https://ashokshrestha07.com.np" target="_blank">https://ashokshrestha07.com.np</a><br/>
   ⚡ Fun fact: I love to code.
 </p>
@@ -33,9 +26,7 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 <!-- Let's Connect -->
@@ -71,7 +62,6 @@
     </tr>
   </table>
 </p>
-
 
 <!-- Contribution Graph -->
 <h2 align="center">🔥 Contribution Graph</h2>
