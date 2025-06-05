@@ -13,7 +13,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  Passionate about data science and web development. Always eager to learn and explore new technologies.
+  Passionate about web development and AI/ML. Always eager to learn and explore new technologies.
 </p>
 
 <p align="center">
