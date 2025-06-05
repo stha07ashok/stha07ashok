@@ -1,71 +1,90 @@
-<!-- Header -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=2E86AB&size=30&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+there!+%F0%9F%91%8B;I'm+Ashok+Shrestha%2C+a+passionate+learner!+!+!+!;And+data+science+enthusiast+!+!+!+!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ashok+Shrestha!;A+Passionate+Learner+%F0%9F%92%AA;Data+Science+Enthusiast+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
 <!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3" alt="CSS">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="ReactJS">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy" alt="NumPy">
-  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas">
-  <img src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=python" alt="Seaborn">
-   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL">
-  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" alt="C">
-   <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" alt="C++">
-    
-  <!-- Add more badges as needed -->
+  Passionate about data science and web development. Always eager to learn and explore new technologies.
 </p>
 
-
-<!-- Technologies & Tools
-<h2 align="center">🔧 Technologies & Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1" alt="Tech1">
-  <img src="https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2" alt="Tech2">
-  <img src="https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3" alt="Tech3">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-9E1C63?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
- My Projects
-<h2 align="center">📂 My Projects</h2>
+<!-- GitHub Stats -->
+<h2 align="center">📈 GitHub Stats</h2>
+
 <p align="center">
-  <a href="Link-to-Project1">
-    <img src="https://img.shields.io/badge/Project%201-Short%20description-333333?style=flat" alt="Project 1">
-  </a> -->
-  <!-- Add more project badges as needed -->
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ashokshrestha&show_icons=true&theme=radical" alt="Ashok's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokshrestha&theme=radical" alt="Ashok's GitHub streak" />
+</p>
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashokshrestha&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Ashok's GitHub trophies" />
+</p>
 
 <!-- Let's Connect -->
 <h2 align="center">📫 Let's Connect</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ashok-shrestha-a295b3235/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/ashokshrestha2003" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-Follow-1877f2?style=flat&logo=facebook" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_stha07ashok_/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail" alt="Gmail">
+  <a href="mailto:ashokshrestha2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<!-- Animated Icons 
-<p align="center">
-  <img src="https://img.shields.io/badge/-🌐-2E86AB?style=flat&logo=earth" alt="Globe Icon">
-  <img src="https://img.shields.io/badge/-✉️-2E86AB?style=flat&logo=gmail" alt="Mail Icon">
-  <!-- Add more animated icons as needed
-</p>-->
+<!-- Contribution Graph -->
+<h2 align="center">🔥 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile+Views" alt="Profile Views">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokshrestha&theme=react-dark" alt="Ashok's GitHub activity graph" />
+</p>
+
+<!-- Tools & Technologies -->
+<h2 align="center">🧰 Tools & Technologies</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<!-- Quote -->
+<h2 align="center">💡 Quote</h2>
+
+<p align="center">
+  <em>"The best way to predict the future is to invent it." – Alan Kay</em>
 </p>
 
 <!-- Footer -->
