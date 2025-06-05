@@ -25,23 +25,6 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
-<!-- GitHub Stats -->
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ashokshrestha&show_icons=true&theme=radical" alt="Ashok's GitHub stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokshrestha&theme=radical" alt="Ashok's GitHub streak" />
-      </td>
-    </tr>
-  </table>
-</p>
-
 <!-- Let's Connect -->
 <h2 align="center">📫 Let's Connect</h2>
 
@@ -59,6 +42,23 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<!-- GitHub Stats -->
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ashokshrestha&show_icons=true&theme=radical" alt="Ashok's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokshrestha&theme=radical" alt="Ashok's GitHub streak" />
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 <!-- Contribution Graph -->
 <h2 align="center">🔥 Contribution Graph</h2>
