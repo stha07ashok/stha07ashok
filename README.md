@@ -42,12 +42,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokshrestha&theme=radical" alt="Ashok's GitHub streak" />
 </p>
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashokshrestha&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Ashok's GitHub trophies" />
-</p>
+
 
 <!-- Let's Connect -->
 <h2 align="center">📫 Let's Connect</h2>
