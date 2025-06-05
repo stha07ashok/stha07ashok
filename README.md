@@ -1,7 +1,4 @@
-<!-- Profile Photo -->
-<p align="center">
-  <img src="https://github.com/stha07ashok/my-photo/raw/main/IMG_5669.jpeg" alt="Ashok Shrestha" width="150" style="border-radius: 50%;" />
-</p>
+
 
 <!-- Animated Header -->
 <p align="center">
