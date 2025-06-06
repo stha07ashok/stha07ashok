@@ -8,7 +8,7 @@
 
 <p align="center">
   👯 I’m looking to collaborate<br/>
-  💬 My Skills: Nextjs, Nodejs, Mysql, Sql, React, Typescript, C, C++<br/>
+  💬 My Skills: Nextjs, Nodejs,Expressjs, Mysql, Sql, React, Typescript, C, C++<br/>
   🌐 Website: <a href="https://ashokshrestha07.com.np" target="_blank">https://ashokshrestha07.com.np</a><br/>
   ⚡ Fun fact: I love to code.
 </p>
