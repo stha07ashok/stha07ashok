@@ -54,10 +54,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ashokshrestha&show_icons=true&theme=radical" alt="Ashok's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=stha07ashok&show_icons=true&theme=radical" alt="Ashok's GitHub stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokshrestha&theme=radical" alt="Ashok's GitHub streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=stha07ashok&theme=radical" alt="Ashok's GitHub streak" />
       </td>
     </tr>
   </table>
@@ -67,7 +67,7 @@
 <h2 align="center">🔥 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokshrestha&theme=react-dark" alt="Ashok's GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stha07ashok&theme=react-dark" alt="Ashok's GitHub activity graph" />
 </p>
 
 <!-- Tools & Technologies -->
